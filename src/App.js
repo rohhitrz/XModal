@@ -1,4 +1,4 @@
-import './App.css';
+// import './App.css';
 import Modal from './components/Xmodal';
 
 function App() {
